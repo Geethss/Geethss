@@ -5,11 +5,11 @@
 <h3>👩‍💻 About me:</h3>
 
 <ul>
-  <li>🌱 A curious techie at heart - I just can’t resist learning something new every day.</li>
-  <li>🌐 My coding journey kicked off with simple websites in <b>HTML</b> and <b>CSS</b> (the OG duo 💻).</li>
-  <li>🤖 You’ll often find me tinkering with <b>AI/ML projects</b> - it’s my favorite playground.</li>
-  <li>⚡ I picked up the <b>MERN Stack</b> and I’m on a mission to level up my full-stack superpowers.</li>
-  <li>☕ When I’m not building, I’m probably grinding <b>LeetCode in Java</b> (yep, that’s my guilty pleasure).</li>
+  <li>A curious techie at heart - I just can’t resist learning something new every day.</li>
+  <li>My coding journey kicked off with simple websites in <b>HTML</b> and <b>CSS</b> (the OG duo 💻).</li>
+  <li>You’ll often find me tinkering with <b>AI/ML projects</b> - it’s my favorite playground.</li>
+  <li>I picked up the <b>MERN Stack</b> and I’m on a mission to level up my full-stack superpowers.</li>
+  <li>When I’m not building, I’m probably grinding <b>LeetCode in Java</b> (yep, that’s my guilty pleasure).</li>
 </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethss&label=Profile%20views&color=0e75b6&style=flat" alt="geethss" /> </p>
 
@@ -57,20 +57,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
 </div>
 
-<h4>🚀 Currently Learning</h4>
+<h4>Currently building using</h4>
 <ul>
-  <li>⚡ <b>Next.js</b> - building modern full-stack apps</li>
-  <li>🧠 <b>LangChain</b> - exploring the world of LLMs</li>
-  <li>📚 <b>RAG Systems</b> - Retrieval Augmented Generation</li>
+  <li><b>Next.js</b> - building modern full-stack apps</li>
+  <li><b>LangChain</b> - exploring the world of LLMs</li>
+  <li><b>RAG Systems</b> - Retrieval Augmented Generation</li>
 </ul>
 
-<h4>🎯 Interested to torture myself in the future about</h4>
+<h4>Interested to torture myself in the future about</h4>
 <ul>
   <li><b>Spring Boot</b> - diving deeper into Java backend</li>
   <li><b>DevOps</b> - CI/CD, containers, cloud & automation</li>
 </ul>
 
-<h4>🌐 Connect with me</h4>
+<h4>Connect with me</h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/geethanjalips/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"/>
