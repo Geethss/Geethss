@@ -4,13 +4,11 @@
 
 <h3>👩‍💻 About me:</h3>
 
-<ul>
-  <li>A curious techie at heart - I just can’t resist learning something new every day.</li>
-  <li>My coding journey kicked off with simple websites in <b>HTML</b> and <b>CSS</b> (the OG duo 💻).</li>
-  <li>You’ll often find me tinkering with <b>AI/ML projects</b> - it’s my favorite playground.</li>
-  <li>I picked up the <b>MERN Stack</b> and I’m on a mission to level up my full-stack superpowers.</li>
-  <li>When I’m not building, I’m probably grinding <b>LeetCode in Java</b> (yep, that’s my guilty pleasure).</li>
-</ul>
+I’m a curious techie passionate about building and experimenting with **AI/ML** projects. Currently trying to grow my skills as a **full-stack developer** with the **MERN stack**.
+When I am not experimenting with new models or prototypes, you’ll usually find me sharpening my **problem-solving skills** on **LeetCode**, mostly in **Java**.  
+
+I enjoy turning ideas into **real, working prototypes** and continuously pushing myself to **learn, improve, and build better every day**.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethss&label=Profile%20views&color=0e75b6&style=flat" alt="geethss" /> </p>
 
 <h3 align="left">🛠️ What I frequently use:</h3>
